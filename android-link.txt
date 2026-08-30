@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://yamaha-theory-putting-operators.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://bucks-experimental-depend-sensitivity.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-30 02:57:47 UTC
+Created   : 2026-08-30 10:24:10 UTC
 =======================================================
