@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://shelf-sports-rankings-fwd.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://dangerous-fell-curriculum-pace.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-03 09:32:29 UTC
+Created   : 2026-09-03 14:13:58 UTC
 =======================================================
