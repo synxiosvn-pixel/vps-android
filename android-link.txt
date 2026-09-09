@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bag-travels-appointments-authentication.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://fifty-neither-benefits-wave.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-09 18:25:50 UTC
+Created   : 2026-09-09 22:19:56 UTC
 =======================================================
